@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//static.rfair.io/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//rfair.io/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
-		<loc>https://static.rfair.io/post-sitemap.xml</loc>
+		<loc>https://rfair.io/post-sitemap.xml</loc>
 		<lastmod>2018-09-13T15:23:40+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://static.rfair.io/page-sitemap.xml</loc>
+		<loc>https://rfair.io/page-sitemap.xml</loc>
 		<lastmod>2019-12-15T17:21:10+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://static.rfair.io/service-sitemap.xml</loc>
+		<loc>https://rfair.io/service-sitemap.xml</loc>
 		<lastmod>2019-06-04T08:06:49+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://static.rfair.io/category-sitemap.xml</loc>
+		<loc>https://rfair.io/category-sitemap.xml</loc>
 		<lastmod>2018-09-13T15:23:40+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://static.rfair.io/author-sitemap.xml</loc>
+		<loc>https://rfair.io/author-sitemap.xml</loc>
 		<lastmod>2019-12-15T17:20:11+00:00</lastmod>
 	</sitemap>
 </sitemapindex>
